@@ -38,7 +38,7 @@ Alternatively, you can enable it through the **Settings** menu by searching for 
 
 ## Help & Support
 
-If you encounter any issues or have suggestions for improvements, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/dark-matter-theme). We’d love to hear your feedback and make **Dark Matter** even better!
+If you encounter any issues or have suggestions for improvements, feel free to open an issue on the [GitHub repository](https://github.com/wreck2053/dark-matter). We’d love to hear your feedback and make **Dark Matter** even better!
 
 ## Contributing
 
