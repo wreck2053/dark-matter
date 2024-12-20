@@ -1,0 +1,27 @@
+{
+  "name": "dark-matter",
+  "publisher": "rahulm2053",
+  "displayName": "Dark Matter  ",
+  "description": "Accelerate your coding with \"Dark Matter\", a smooth, distraction-free theme that keeps your focus sharp and your workflow smooth.",
+  "version": "0.0.1",
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wreck2053/dark-matter"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Matter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Matter-color-theme.json"
+      }
+    ]
+  }
+}
